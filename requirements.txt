@@ -1,5 +1,5 @@
 aiogram==2.25.1
-aiohttp==3.8.6
-youtube-search-python
+openai==0.28
 wikipedia
-googlesearch-python
+youtube-search-python
+duckduckgo-search
